@@ -10,12 +10,11 @@ A simple and responsive chat application built using the MERN stack (MongoDB, Ex
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
+- [ER Diagram](#er-diagram)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Features
-![Uploading text](images/erDiagram.png)
-
 - User authentication (registration and login)
 - Real-time messaging using Socket.io
 - Responsive design for mobile and desktop
@@ -31,7 +30,7 @@ A simple and responsive chat application built using the MERN stack (MongoDB, Ex
 
 ## Demo
 
-[Live Demo](https://your-demo-link.com) (Replace with your actual demo link)
+[Live Demo](https://your-demo-link.com) ()
 
 ## Installation
 
@@ -41,7 +40,8 @@ A simple and responsive chat application built using the MERN stack (MongoDB, Ex
 - MongoDB (local or cloud instance)
 
 ### Clone the Repository
-
-```bash
 git clone https://github.com/yourusername/chat-app.git
 cd chat-app
+## ER Diagram
+
+![Uploading text](images/erDiagram.png)
