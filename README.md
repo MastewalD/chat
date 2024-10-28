@@ -30,7 +30,7 @@ A simple and responsive chat application built using the MERN stack (MongoDB, Ex
 
 ## Demo
 
-[Live Demo](https://your-demo-link.com) (Replace with your actual demo link)
+[Live Demo](https://your-demo-link.com) ()
 
 ## Installation
 
