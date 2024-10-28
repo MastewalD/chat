@@ -14,6 +14,7 @@ A simple and responsive chat application built using the MERN stack (MongoDB, Ex
 - [License](#license)
 
 ## Features
+![Uploading erDiagram.png…]()
 
 - User authentication (registration and login)
 - Real-time messaging using Socket.io
