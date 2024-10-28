@@ -40,9 +40,8 @@ A simple and responsive chat application built using the MERN stack (MongoDB, Ex
 - MongoDB (local or cloud instance)
 
 ### Clone the Repository
+git clone https://github.com/yourusername/chat-app.git
+cd chat-app
 ## ER Diagram
 
 ![Uploading text](images/erDiagram.png)
-```bash
-git clone https://github.com/yourusername/chat-app.git
-cd chat-app
