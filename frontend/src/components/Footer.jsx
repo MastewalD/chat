@@ -1,13 +1,10 @@
 import React from 'react';
-import './Footer.css';
 
 const Footer = () => {
   return (
-    <footer className="footer">
-      <div className="footer-content">
+    <footer className="flex items-center justify-center h-10">
         <p>&copy; {new Date().getFullYear()} MD. All rights reserved.</p>
 
-      </div>
     </footer>
   );
 };

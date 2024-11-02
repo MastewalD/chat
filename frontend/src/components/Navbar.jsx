@@ -1,8 +1,7 @@
 import React from 'react'
-import "./Navbar.css"
 function Navbar() {
   return (
-    <div className='navbar'>
+    <div className='flex bg-black-500 h-14 items-center justify-center'>
       <h1>navbar</h1>
     </div>
   )
